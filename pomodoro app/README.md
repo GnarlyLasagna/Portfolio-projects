@@ -67,23 +67,4 @@ Start the app in development mode and open your browser to [http://localhost:300
 ```
 npm start
 ```
-<br>
 
-The test runner can run in interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-```
-npm test
-```
-
-## Contributing
-PRs accepted.
-
-### Known Issues
-Does not track your start time or save your preferences, so timer stops if your computer sleeps and the settings need to be reentered when the page is refreshed.
-
-## License
-[MIT © Aaron Stroud.](./LICENSE)
-
-
-## Author
-👋 I'm a frontend web developer + Tech & Communications Specialist. #opentowork Older work: @Cotni and @incsuccess
