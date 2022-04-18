@@ -3,7 +3,7 @@
 ⏲ React Pomodoro timer + Frontend Mentor's visual design.
 
 
-If you're just interested in the timer, you can [run it here](https://pomodoro.astroud.vercel.app).
+If you're just interested in the timer, you can [run it here](https://pomodora-app-fem.netlify.app/).
 
 I created this [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) app with React as a learning and documentation exercise while taking the [Full Stack Open course](https://fullstackopen.com/en/) with the [CodeBookClub](https://madisonkanna.com/codebookclub/).
 
