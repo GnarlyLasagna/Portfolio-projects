@@ -27,7 +27,10 @@ function Header() {
       <div className="col-lg-6">
         <div className="invoices-counter">
           <h2>Invoices</h2>
-          <span>There are {final.length} total invoices</span>
+          <span>
+            {final.length > 1 ? "There are " : "There is "}
+            {final.length} {final.length > 1 ? "Total invoices" : "invoice"}
+          </span>
         </div>
       </div>
       <div className="col-lg-6">
@@ -40,9 +43,8 @@ function Header() {
               }}
             >
               Filter by status
+              <BiChevronDown />
             </button>
-            <BiChevronDown />
-
             <ul className="filter-list">
               <li>
                 <input type="checkbox" name="check" id="draft-input" />

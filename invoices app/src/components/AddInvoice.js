@@ -136,7 +136,7 @@ function AddInvoice() {
                   <div className="row">
                     <div className="col-12">
                       <div className="form-control">
-                        <label htmlFor="streetAdressFrom">street adress</label>
+                        <label htmlFor="streetAdressFrom">street address</label>
                         <input
                           type="text"
                           name="streetAdress"
