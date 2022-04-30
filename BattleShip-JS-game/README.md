@@ -2,7 +2,7 @@
 
 A game of Battleship built with vanilla javascript and html
 
-To see the finished app website you can [run it here!](https://example.netlify.app/).
+To see the finished app website you can [run it here!](https://battle-ship-7bf9aa.netlify.app/).
 
 ## Background
 
