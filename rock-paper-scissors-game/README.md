@@ -4,7 +4,7 @@ This is a game of Rock Paper Scissors you can play against an AI opponent
 most of the function of this app is a randomizer for your opponents next choice and showing the results by removing and adding CSS classes with
 Javascript and keeping track of your score against the AI opponent
 
-To see the finished app website you can [run it here!]([https://battle-ship-7bf9aa.netlify.app/](https://rock-paper-scissors-333.netlify.app/)).
+To see the finished app website you can [run it here!]([https://battle-ship-7bf9aa.netlify.app/](https://rock-paper-scissors-333.netlify.app/).
 
 ## Background
 
