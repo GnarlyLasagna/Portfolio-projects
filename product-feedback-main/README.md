@@ -1,6 +1,5 @@
 # Frontend Mentor - Product feedback app
 
-![Design preview for the Product feedback app coding challenge](./preview.jpg)
 
 This is a solution to the [Product feedback app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-feedback-app-wbvUYqjR6). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
